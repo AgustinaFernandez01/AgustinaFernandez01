@@ -6,5 +6,5 @@
 
 🌱 I’m currently learning: TailWind and Python.
 
-🛠 Languages and Tools |JavaScript |React |NodeJS |HTML |CSS |TailWind |
+🛠 Languages and Tools: JavaScript |React |NodeJS |HTML |CSS |TailWind |
 
